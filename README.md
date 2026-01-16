@@ -3,5 +3,5 @@ Comparison of Netflix, Prime Video, and Disney+ streaming platforms based on sta
 
 Link to the .pbit file https://1drv.ms/u/c/3b012cf6f8137454/IQAaotUdfLd3RYBHd47ghcN6AWLtm-iSDF8vvO6K_oX6pm4?e=fBJaqJ
 
-📄 [Download Full Power BI Report](pdf%20dashboard.pdf)
+📄 [See Full PDF Power BI Report](pdf%20dashboard.pdf)
 
