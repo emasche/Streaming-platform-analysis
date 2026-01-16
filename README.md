@@ -5,3 +5,6 @@ Link to the .pbit file https://1drv.ms/u/c/3b012cf6f8137454/IQAaotUdfLd3RYBHd47g
 
 📄 [See Full PDF Power BI Report](pdf%20dashboard.pdf)
 
+![Overview of Power BI Dashboard](Screenshots/Platforms%20breakdown.png)
+
+![Overview of Power BI Dashboard](Screenshots/Top%205%20Ratings and categories.png)
